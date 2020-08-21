@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculatorTutorial", "CalculatorTutorial\CalculatorTutorial.vcxproj", "{12C557ED-B2D3-416A-8A9C-D3F7A60A6CED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesktopApp", "DesktopApp\DesktopApp.vcxproj", "{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{12C557ED-B2D3-416A-8A9C-D3F7A60A6CED}.Release|x64.Build.0 = Release|x64
 		{12C557ED-B2D3-416A-8A9C-D3F7A60A6CED}.Release|x86.ActiveCfg = Release|Win32
 		{12C557ED-B2D3-416A-8A9C-D3F7A60A6CED}.Release|x86.Build.0 = Release|Win32
+		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Debug|x64.ActiveCfg = Debug|x64
+		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Debug|x64.Build.0 = Debug|x64
+		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Debug|x86.Build.0 = Debug|Win32
+		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Release|x64.ActiveCfg = Release|x64
+		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Release|x64.Build.0 = Release|x64
+		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Release|x86.ActiveCfg = Release|Win32
+		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
