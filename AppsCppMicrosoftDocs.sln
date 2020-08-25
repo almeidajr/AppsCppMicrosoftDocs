@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculatorTutorial", "Calcu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesktopApp", "DesktopApp\DesktopApp.vcxproj", "{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HttpClientTutorial", "HttpClientTutorial\HttpClientTutorial.vcxproj", "{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupProjectTutorial", "SetupProjectTutorial\SetupProjectTutorial.vdproj", "{76B5C105-F66E-48AF-A500-FAB1F31DC502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,19 @@ Global
 		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Release|x64.Build.0 = Release|x64
 		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Release|x86.ActiveCfg = Release|Win32
 		{2E99BBCD-067B-4F91-BBFD-AF4FE8EF127B}.Release|x86.Build.0 = Release|Win32
+		{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}.Debug|x64.ActiveCfg = Debug|x64
+		{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}.Debug|x64.Build.0 = Debug|x64
+		{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}.Debug|x86.Build.0 = Debug|Win32
+		{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}.Release|x64.ActiveCfg = Release|x64
+		{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}.Release|x64.Build.0 = Release|x64
+		{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}.Release|x86.ActiveCfg = Release|Win32
+		{3CFA7EE8-54ED-40A9-B898-0CBA4139305D}.Release|x86.Build.0 = Release|Win32
+		{76B5C105-F66E-48AF-A500-FAB1F31DC502}.Debug|x64.ActiveCfg = Debug
+		{76B5C105-F66E-48AF-A500-FAB1F31DC502}.Debug|x86.ActiveCfg = Debug
+		{76B5C105-F66E-48AF-A500-FAB1F31DC502}.Debug|x86.Build.0 = Debug
+		{76B5C105-F66E-48AF-A500-FAB1F31DC502}.Release|x64.ActiveCfg = Release
+		{76B5C105-F66E-48AF-A500-FAB1F31DC502}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
